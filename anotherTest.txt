@@ -7,6 +7,7 @@ desk 修改文件
 冲突解决
 
 
+新建分支 newbranch
 
 master 分支修改了
 本地分支修改了  然后Pull 下来合并
